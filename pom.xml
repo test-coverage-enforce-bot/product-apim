@@ -160,7 +160,8 @@
 	<version>2.21.0</version>
 	<configuration>
 	    <argLine>${argLine}</argLine>	
-	</configuration>
+	<argLine>${surefireArgLine}</argLine>
+          </configuration>
 </plugin>
       </plugins>
         </pluginManagement>
